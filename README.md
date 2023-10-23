@@ -20,6 +20,4 @@ In a rapidly evolving tech landscape, I'm on a perpetual journey of learning and
 
 ## 🔗 Explore My Work
 
-Dive into my GitHub repositories to witness my coding journey firsthand. Each line of code is a testament to my dedication and passion.
-
-Let's embark on a journey to code a brighter and smarter future! 💡🚀
+Dive into my GitHub repositories to witness my coding journey firsthand. Each line of code is a testament to my dedication and passion💡🚀
