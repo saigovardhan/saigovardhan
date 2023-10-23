@@ -1,18 +1,14 @@
 # 👨‍💻 Hi, i'm Sai Govardhan - Passionate Developer 
 
-Hey there! 👋 Welcome to my coding realm, where Java, JavaScript, and creativity converge to craft remarkable software solutions. With over a year of experience in a multinational corporation, I've honed my skills and I'm ready to take on new challenges.
+Hey there! 👋. With over a year of experience, I've honed my skills and I'm ready to take on new challenges.
 
 ## 🚀 What I'm All About
 
-- 💻 Java and JavaScript, from backend to frontend, it's all in my coding arsenal.
-- 🌱 Spring Boot aficionado - Transforming ideas into scalable, high-performance APIs.
-- ⚛️ React wizard - Crafting seamless user interfaces for immersive experiences.
+- 💻 Java, Python, JavaScript, Dart
+- 🌱 Spring Boot, React, Flutter.
+- ⚛️ Gitlab CI/CD, Docker.
 - 🧠 Data structures and algorithms enthusiast - Because efficiency matters.
 - 🏢 Corporate player - Thriving in fast-paced, collaborative environments.
-
-## 🔥 Current Focus
-
-🔍 Currently, I'm weaving code magic into a Java project that showcases the perfect blend of innovation and execution. Stay tuned for greatness!
 
 ## 🤝 Let's Connect
 
