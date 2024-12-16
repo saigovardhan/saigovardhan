@@ -4,11 +4,10 @@ Hey there! 👋. With over a year of experience, I've honed my skills and I'm re
 
 ## 🚀 What I'm All About
 
-- 💻 Java, Python, JavaScript, Dart
-- 🌱 Spring Boot, React, Flutter.
+- 💻 Java, Python, JavaScrip.
+- 🌱 Spring Boot, React.
 - ⚛️ Gitlab CI/CD, Docker.
-- 🧠 Data structures and algorithms enthusiast - Because efficiency matters.
-- 🏢 Corporate player - Thriving in fast-paced, collaborative environments.
+- 🧠 Data structures and algorithms enthusiast.
 
 ## 🤝 Let's Connect
 
